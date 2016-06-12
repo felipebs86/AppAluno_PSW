@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Histórico</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblHistorico">Histórico</string>
+    <string name="lblPeriodo">Periodo</string>
+    <string name="lblDisciplina">Disciplina</string>
+    <string name="lblMedia">Média</string>
+    <string name="lblFaltas">Faltas</string>
+    <string name="lblSituacao">Situação</string>
+</resources>
